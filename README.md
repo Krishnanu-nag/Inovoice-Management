@@ -11,7 +11,6 @@ A full-stack Invoice Management System built with **Django REST Framework** on t
 - [Frontend Setup](#frontend-setup)
 - [API Documentation](#api-documentation)
 - [Usage](#usage)
-- [License](#license)
 
 ---
 
@@ -224,11 +223,6 @@ A full-stack Invoice Management System built with **Django REST Framework** on t
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contributions
 
@@ -238,5 +232,5 @@ Feel free to fork this repository, create issues, or submit pull requests for im
 
 ## Contact
 
-- **Author:** [Your Name](https://github.com/your-username)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Author:** [Krishnanu Nag](https://github.com/your-username)
+- **Email:** [krishnanunag@gmail.com](mailto:krishnanunag@gmail.com)
